@@ -1,0 +1,45 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.sliderlabel
+{
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #000;
+    clear:both;
+    font-family: ProximaNova;
+}
+.sliderlabel .pct
+{
+  float: right;
+  font-size: 12px;
+  color: #333;
+  text-transform: lowercase;
+
+}
+.x-column-header-text {
+   cursor: pointer;
+}
+
+.team-label {
+    font-size: 14px;
+    padding-right: 5px;
+}
+
+.inactive {
+  color: #888;
+}
